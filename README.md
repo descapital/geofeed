@@ -1,2 +1,1 @@
-# geofeed
-Geofeed
+[Open Geofeed](https://ims.serverion.com/geo.csv)
